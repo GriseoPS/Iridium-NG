@@ -28,4 +28,3 @@ You can download the binary(win/linux) from Actions, or build from source
   "autoSavePcapFiles" : true // auto save capture to current folder
 }
 ```
-
